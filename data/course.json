@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
+  "legacy_uid": "807a333e-acc6-fe03-252b-ca0fc01b0dce",
+  "instructors": {
+    "content": [
+      "6bafc2ad-68a3-da07-052e-2b8f55296031",
+      "64035f9a-a78c-93a3-4db3-d6034513e534"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "08b6e198-2462-f031-8068-a10fe0550826",
+    "website": "5-111-principles-of-chemical-science-fall-2008"
+  },
+  "course_title": "Principles of Chemical Science",
+  "hide_download": true,
+  "course_description": "This course provides an introduction to the chemistry of biological, inorganic, and organic molecules.\u00a0The\u00a0emphasis is\u00a0on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis.\n\nIn an effort to illuminate connections between chemistry and biology, a list of the biology-, medicine-, and MIT research-related examples used in 5.111 is provided in [Biology-Related Examples](/courses/5-111-principles-of-chemical-science-fall-2008/pages/biology-related-examples).\n\n##### Acknowledgements\n\nDevelopment and implementation of the biology-related materials in this course were funded through an HHMI Professors grant to Prof. Catherine L. Drennan. Videos and captioning were made possible and supported by the MIT Class of 2009.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.111",
+  "course_image_thumbnail": {
+    "content": "7679302d-3038-fa30-fdeb-750c23352ff9",
+    "website": "5-111-principles-of-chemical-science-fall-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "35c7b8d2-d1f5-4ece-911a-4f73e876033b",
+  "site_short_id": "5.111-fall-2008",
+  "site_url_path": "courses/5-111-principles-of-chemical-science-fall-2008",
+  "title": "Course Metadata"
+}

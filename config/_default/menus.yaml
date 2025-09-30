@@ -1,0 +1,31 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 898c85c8-b6cd-4bd3-014c-ab4f6058cabd
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
+  name: Readings and Lecture Notes
+  pageRef: /pages/readings-and-lecture-notes
+  weight: 20
+- identifier: 03ccb4fc-9acc-2e9a-e701-ccd83ded8e0c
+  name: Exams
+  pageRef: /pages/exams
+  weight: 30
+- identifier: d3155b63-ec67-4335-5375-ea901b2a4f4e
+  name: Biology Topics
+  pageRef: /pages/biology-related-examples
+  weight: 40
+- identifier: d95fdda3-d85f-e5ab-7c1d-3004f46da8e1
+  name: TA Training
+  pageRef: /pages/ta-training
+  weight: 50
+- identifier: fef1cb56-e36e-710a-8b64-fdf3f4ff25c4
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 60
+- identifier: 90717903-c693-7611-76e6-c9d91a7a58b1
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70
